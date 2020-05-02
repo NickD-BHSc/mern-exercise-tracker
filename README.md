@@ -1,5 +1,5 @@
 # MERN Fullstack Exercise Tracker
-Full stack web app tutorial to get feet wet with linking front-end to back-end
+###Full stack web app tutorial to get feet wet with linking front-end to back-end
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
